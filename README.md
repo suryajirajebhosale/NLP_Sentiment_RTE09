@@ -8,3 +8,5 @@ Objectives
       • Quota
       • Economically Weaker Sections(EWS)   
       • Caste
+
+Prototyped a Machine Learning project to scrape and analyse newspaper articles to generate statistics and word clouds that facilitate the classification of articles based on their underlying tone and sentiment, further analysing if any partisan ideologies we’re sponsored by the media houses.
